@@ -1,4 +1,4 @@
-## Welcome to Git
+## Aloha Git! Welcome to my Git buddies.
 
-This is coming from a branch dev-lukasz.
+Yo, just testing this functionality bro.
 I'm adding this text from a new branch.
